@@ -1,4 +1,4 @@
-# columbia basin water hub python repo
+# columbia basin water hub Dev&Code repo
  This is the repository where community members, water experts, water users, and developers from the Columbia Basin can collaborate, create, and share ideas using their favourite coding language and the Water Hub
  
 
