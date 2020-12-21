@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# You are at the Columbia Basin Water Hub GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/CBWaterHubManager/columbia-basin-water-hub-Dev-Code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is this GitHub Page for?
+This page was created with the aim to serve as a central place for the developing, coding, and data science/analysis communities within the Columbia Basin, in British Columbia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, people will be able to collaborate on how to best use different coding languages for accessing and analysing data, as well as provide tutorials, support, and an environment for creating applications that have a possitive impact on water stewardship.
 
-### Markdown
+We aim to combine technologies at the Columbia Basin Water Hub, and aim to be technology agnostic, always approaching situations with an open mind.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is the Columbia Basin Water Hub? 
+Through the Columbia Basin Water Hub, the Columbia Basin Water Monitoring Collaborative is making critical water data readily available for the development of a Basin-wide water balance approach for subsequent water budgeting needed by decision makers for watershed management in an era of climate change impacting hydrological flows. Water data is important given the mounting pressures on increased freshwater needs, for not only human and industrial uses, but also for functioning ecosystems.
 
-```markdown
-Syntax highlighted code block
+The Water Hub is a central place where all water related data relevant to Columbia Basin, collected by community groups and or local, regional and First Nations governments. Throughout this database a range of datasets, from water quantity and quality, groundwater, snow surveys, glacier studies, wetland related literature and studies and First Nations Traditional Knowledge will be available. In this way data collected over the years will also be housed in a central repository and not get lost or disappear once a data collecting project has sunset. 
 
-# Header 1
-## Header 2
-### Header 3
+## Useful Links
+Columbia Basin Water Hub Site:
+[Link](https://waterhub.livinglakescanada.ca/)
 
-- Bulleted
-- List
+Dev&Code Repository:
+[Link](https://github.com/CBWaterHubManager/columbia-basin-water-hub-Dev-Code/tree/main)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CBWaterHubManager/columbia-basin-water-hub-Dev-Code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
