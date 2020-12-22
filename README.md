@@ -10,7 +10,10 @@
  
  1. Please be respectful and courtous to everyone here while communicating. There will be no tolerance for any violence, bad language, or anything of the like. 
  2. We count on you to follow the licencing specified
- 
+
+# To find out more about open source and GitHub go to the link below
+[GitHub Open Source Guide](https://opensource.guide/)
+
 # Changes Log
 
 Here is where we can log any changes to our main Readme file. 
