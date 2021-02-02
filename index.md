@@ -30,7 +30,7 @@ We aim to combine technologies at the Columbia Basin Water Hub, and aim to be te
 The Water Hub is a central place where all water related data relevant to Columbia Basin, collected by community groups and or local, regional and First Nations governments. Throughout this database a range of datasets, from water quantity and quality, groundwater, snow surveys, glacier studies, wetland related literature and studies and First Nations Traditional Knowledge will be available. In this way data collected over the years will also be housed in a central repository and not get lost or disappear once a data collecting project has sunset. 
 </p>
       <h2>Useful Links</h2>
-  <a href="https://waterhub.livinglakescanada.ca/">Columbia Basin Water Hub Site</a>
+  <a href="https://waterhub.livinglakescanada.ca/">Columbia Basin Water Hub Site</a><br>
   <a href="https://github.com/CBWaterHubManager/columbia-basin-water-hub-Dev-Code/tree/main">Dev&Code Repository</a>
   </div>
 		</div><!-- /.container -->
