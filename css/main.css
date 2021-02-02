@@ -20,8 +20,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    color: 46976c;
     font-size: 3em;
 }
+h2 {
+    font-size:2em;
+    color: #345f89;
 p {
     font-size: 1.5em;
     line-height: 1.4em;
