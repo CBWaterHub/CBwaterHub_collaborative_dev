@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-
+		<h1>Columbia Basin Water Hub</h1>
 	</head>
 	<body>
 		<nav>
