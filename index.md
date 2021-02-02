@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<h1>Columbia Basin Water Hub</h1>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
