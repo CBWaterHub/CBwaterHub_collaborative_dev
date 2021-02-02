@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>columbia-basin-water-hub-Dev-Code-GIS</title>
+
 	</head>
 	<body>
 		<nav>
