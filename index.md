@@ -16,7 +16,7 @@
 		</nav>
 		<div class="container">
       <div>
-        		<h1>You are at the Columbia Basin Water Hub GitHub Page!This page is under development.</h1>  
+        		<h1>You are at the Columbia Basin Water Hub GitHub Page!<br> This page is under development.</h1>  
       </div>
       <div>
         <h2>What is this GitHub Page for?</h2>
