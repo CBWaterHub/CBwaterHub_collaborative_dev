@@ -1,5 +1,5 @@
 body {
-    font-family: 'fira_sansregular, Helvetica, sans-serif';
+    font-family: 'Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -20,19 +20,19 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    color: #BE2525;
+    color: #345f89;
     font-size: 3em;
 }
 h2 {
     font-size:2em;
-    color: #BE2525;
+    color: #46976c;
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 4px solid #46976f;
     font-size: .8em;
 }
 
