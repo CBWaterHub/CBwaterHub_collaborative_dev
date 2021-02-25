@@ -3,7 +3,7 @@ layout: default
 title: Welcome to the Columbia Basin Water Hub GitHub Page
 ---
 <div>
-  <h1 style="serif;">This page is under development</h1>
+  <h1 style="sans-serif;">This page is under development</h1>
 	<h2>What is this GitHub Page for?</h2>
       <p>This page was created with the aim to serve as a central place for the developing, coding, and data science/analysis communities within the Columbia Basin, in British Columbia.
 
