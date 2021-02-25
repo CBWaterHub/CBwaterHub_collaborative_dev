@@ -1,52 +1,52 @@
 body {
-    font-family: "Helvetica", 'sans-serif';
-    background-color: white;
-    margin: 60px auto;
-    width: 70%;
+font-family: "Helvetica", 'sans-serif';
+background-color: white;
+margin: 60px auto;
+width: 70%;
 }
 nav ul, footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+padding: 0px;
+list-style: none;
+font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+display: inline;
+margin-right: 20px;
 }
 a {
-    font-family: "Helvetica", 'sans-serif';
-    text-decoration: none;
-    color:#345f89;
+font-family: "Helvetica", 'sans-serif';
+text-decoration: none;
+color:#345f89;
 }
 a:hover {
-    text-decoration: underline;
+text-decoration: underline;
 }
 h1 {
-    font-family: "Helvetica",'sans-serif';
-    color: #345f89;
-    font-size: 3em;
+font-family: "Helvetica",'sans-serif';
+color: #345f89;
+font-size: 3em;
 }
 h2 {
-    font-family: "Helvetica",'sans-serif';
-    font-size:2em;
-    color: #46976c;
+font-family: "Helvetica",'sans-serif';
+font-size:2em;
+color: #46976c;
 p {
-    font-family: "Helvetica",'sans-serif';
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+font-family: "Helvetica",'sans-serif';
+font-size: 1.5em;
+line-height: 1.4em;
+color: #333;
 }
 footer {
-    font-family: "Helvetica",'sans-serif';
-    border-top: 4px solid #46976f;
-    font-size: .8em;
+font-family: "Helvetica",'sans-serif';
+border-top: 4px solid #46976f;
+font-size: .8em;
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+margin: 20px auto 40px; 
+font-size: 1.5em;
 }
 
 ul.posts li {
-    list-style: none;
+list-style: none;
 }
