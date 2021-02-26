@@ -1,5 +1,6 @@
 body {
 font-family: "Helvetica", 'sans-serif';
+line-height: 1.5;
 background-color: white;
 margin: 60px auto;
 width: 70%;
@@ -15,6 +16,7 @@ margin-right: 20px;
 }
 a {
 font-family: "Helvetica", 'sans-serif';
+line-height: 1.5;
 text-decoration: none;
 color:#345f89;
 }
@@ -23,17 +25,19 @@ text-decoration: underline;
 }
 h1 {
 font-family: "Helvetica",'sans-serif';
+line-height: 1.5;
 color: #345f89;
 font-size: 3em;
 }
 h2 {
 font-family: "Helvetica",'sans-serif';
+line-height: 1.5;
 font-size:2em;
 color: #46976c;
 p {
 font-family: "Helvetica",'sans-serif';
+line-height: 1.5;
 font-size: 1.5em;
-line-height: 1.4em;
 color: #333;
 }
 footer {
