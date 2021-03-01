@@ -19,5 +19,4 @@ The Water Hub is a central place where all water related data relevant to Columb
       <h2>Useful Links</h2>
   <a href="https://waterhub.livinglakescanada.ca/">Columbia Basin Water Hub Site</a><br>
   <a href="https://github.com/CBWaterHubManager/columbia-basin-water-hub-Dev-Code/tree/main">Dev&Code Repository</a>
-  <img src="assets/images/pagebanner.jpg" alt="Lake,mountains and raindrop with network graphic">
 </div>
